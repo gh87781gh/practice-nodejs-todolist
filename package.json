@@ -1,0 +1,22 @@
+{
+  "name": "practice-nodejs-todolist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gh87781gh@github.com/gh87781gh/practice-nodejs-todolist.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gh87781gh/practice-nodejs-todolist/issues"
+  },
+  "homepage": "https://github.com/gh87781gh/practice-nodejs-todolist#readme",
+  "dependencies": {
+    "uuid": "8.3.2"
+  }
+}
